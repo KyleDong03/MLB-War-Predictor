@@ -1,0 +1,2 @@
+I wish that I could keep the batting handedness and throwing handedness as I believe that they will be great for the dashboard, and they may be able to help the model, however I could not find a function to do so
+Web Scrapping by myself would have been nice however Fangraphs explicitly does not condone webscrapping and will actively block my connection if I query too often, and baseball reference uses dynamic data as such finding a library to get the data for me was the best option
